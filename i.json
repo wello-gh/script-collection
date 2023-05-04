@@ -1,0 +1,281 @@
+{
+  "scripts": [
+    {
+      "title": "Owl Hub",
+      "author": "CriShoux & Chrome",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948757913751650304/RobloxPlayerBeta_Vqbg0i7U3f.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
+    },
+    {
+      "title": "Infinite Yeild",
+      "author": "Infinite Yeild Team",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948762731840946186/f546baace2182479d797a478d6a85844.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+    },
+    {
+      "title": "CMDX",
+      "author": "CMDX Team",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948763284251762729/t8BF4Th.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"
+    },
+    {
+      "title": "Reviz Admin",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948886490652487690/maxresdefault.png",
+      "scriptURLRaw": ""
+    },
+    {
+      "title": "Dark Hub",
+      "author": "Bye...",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948498359214288946/d-2.png",
+      "scriptURLRaw": "https://darkhub.xyz/remote-script.lua"
+    },
+    {
+      "title": "Project Evo V2",
+      "author": "trill",
+      "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918343183082078218/bruh.png",
+      "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
+    },
+    {
+      "title": "Domain X",
+      "author": "Shlex",
+      "imageURL": "https://media.discordapp.net/attachments/872654761017618484/893483107892723752/Screenshot_20211001-183245_Edge.jpg",
+      "scriptURLRaw": "https://shlex.dev/release/domainx/latest.lua"
+    },
+    {
+      "title": "Nullware Hub V3",
+      "description": "FE Reanimation",
+      "author": "whited",
+      "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918321419652333598/unknown.png",
+      "scriptURLRaw": "https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/c4f958fbcedba8ae38e8c5df87980e3a/raw/buwXJCdNS7sR2RqM"
+    },
+    {
+      "title": "Delta Pet sim x",
+      "author": "Delta",
+      "imageURL": "https://cdn.discordapp.com/attachments/932726113384403044/935144793422581810/deltalogo.png",
+      "scriptURLRaw": "https://pastebin.com/raw/aBEg8uDS"
+    },
+    {
+      "title": "Funky Friday",
+      "author": "unknown",
+      "imageURL": "https://t5.rbxcdn.com/6aecfc39821d044aafd746595677ef99",
+      "scriptURLRaw": "https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua"
+    },
+    {
+      "title": "Valiant Arsenal Script",
+      "author": "iCyphy#0002",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/892501375429279804/8bf3dfc053751626dfa453cb58248a6a.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/JepDeveloper/Valiant/main/jepscript.lua"
+    },
+    {
+      "title": "Adopt Me",
+      "author": "unknown",
+      "imageURL": "https://t0.rbxcdn.com/664d382793f450ac446bd7df9f010aae",
+      "scriptURLRaw": "https://bloxhub.xyz/script/loader"
+    },
+    {
+      "title": "Shindo Life GUI",
+      "author": "Delta",
+      "imageURL": "https://cdn.discordapp.com/attachments/913407557471703080/947899131177865226/unknown.png",
+      "scriptURLRaw": "https://gitlab.com/littlekiller2927/deltacore/-/raw/main/deltasl.lua"
+    },
+    {
+      "title": "Anime Fighters",
+      "author": "Code-Fludex",
+      "imageURL": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/Roblox-anime-fighters.jpg?q=50&fit=crop&w=740&dpr=1.5",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Code-Fludex/Lua-Scripts/main/AnimeFightersSim.lua"
+    },
+    {
+      "title": "Proxima Hub",
+      "author": "Trix#2794",
+      "imageURL": "https://robloxscripts.com/wp-content/uploads/2022/05/unknown-3.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"
+    },
+    {
+      "title": "Super Hero Tycoon",
+      "author": "Unknown",
+      "imageURL": "https://t5.rbxcdn.com/eebbb0f8582fd1ef8ecc1d7b01e9397d",
+      "scriptURLRaw": "https://pastebin.com/raw/RfA27fJr"
+    },
+    {
+      "title": "Lumber Tycoon",
+      "author": "Step",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888588408954449960/unknown.png",
+      "scriptURLRaw": "https://dirtgui.xyz/Lt2.lua"
+    },
+    {
+      "title": "Imperium",
+      "author": "Splooshy",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888597574267842620/4e0ab4be92e38c3428de29ad298fa601.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Splooshhy/PantherHub/main/AutoArrest"
+    },
+    {
+      "title": "Prison Life",
+      "author": "Scam666",
+      "imageURL": "https://t0.rbxcdn.com/3853336f6b59e8d56bb5cd6bcbe667cf",
+      "scriptURLRaw": "https://raw.githubusercontent.com/scam666/Prevail-X/main/src.lua"
+    },
+    {
+      "title": "Azure Mines",
+      "author": "Kinesis",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948803720647438366/download-3.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/slendercreeper/azuremines/main/Azure%20Final%20Gui.lua"
+    },
+    {
+      "title": "Cheeto Hub",
+      "author": "Slixx#2043",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948804810520547328/download-4.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/insanedude59/CheetoHub/main/Loader"
+    },
+    {
+      "title": "Strongest Punch Sim",
+      "author": "Unknown",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894272669103571104/64027679efdc04a067ae4e243d9f0287.png",
+      "scriptURLRaw": "https://pastebin.com/raw/w9MaiZ9i"
+    },
+    {
+      "title": "Auto Grammar",
+      "author": "Shib#1337",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948804919924756540/D40KVhLQ-8.png",
+      "scriptURLRaw": "https://capybaras.wtf/chat/grammar.lua"
+    },
+    {
+      "title": "Bedwars vape",
+      "author": "7GrandDad#6656",
+      "imageURL": "https://robloxscripts.com/wp-content/uploads/2022/01/Png-2-3-300x169.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"
+    },
+    {
+      "title": "Hitbox Expander",
+      "author": "GameOverAgain",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gyazo.com%2F80b39a68a82916ff4f1595c879c37c45.gif",
+      "scriptURLRaw": "http://gameovers.net/Scripts/Free/HitboxExpander/main.lua"
+    },
+    {
+      "title": "SkyWars Scirpt Gui",
+      "author": "Blockman",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948805339812352090/Png-50.png",
+      "scriptURLRaw": "https://fern.wtf/scripts/skywars_autowin.lua"
+    },
+    {
+      "title": "Ez Hub",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948806211975913472/9k.png",
+      "scriptURLRaw": "https://cdn.wearedevs.net/scripts/Ez Hub.txt"
+    },
+    {
+      "title": "Mukuro Hub",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948812455121932368/hqdefault.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua"
+    },
+     {
+      "title": "Da Hood (Valiant Scripts Collection)",
+      "author": "Valiant team",
+      "imageURL": "https://tr.rbxcdn.com/ad7f9e91a7c7057c32aeb9cd0471566f/512/512/Image/Jpeg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/KanekiCow/gamehubvaliant/main/da%20hood"
+    },
+    {
+      "title": "Bruh Hub", 
+      "author": "Unknow..",
+      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/945188804866768936/a0130398078_10.png", 
+      "scriptURLRaw": "https://bruh.keshsenpai.com/.lua"
+    },
+    {
+      "title": "OBBY RUN AUTO FARM", 
+      "author": "EzekielAspect#1699",
+      "imageURL": "https://robloxscripter.com/wp-content/uploads/jet-engine-forms/5/2022/05/Png-3-1.png", 
+      "scriptURLRaw": "https://raw.githubusercontent.com/oceanhong970201/robloxscript/main/Obby%20Run%20Gui.lua"
+    },
+    {
+      "title": "Youtube life", 
+      "author": "RegularVynixu",
+      "imageURL": "https://cdn.discordapp.com/attachments/901251185858711623/977525182304493619/unknown.png", 
+      "scriptURLRaw": "https://raw.githubusercontent.com/RegularVynixu/Scripts/main/YouTube%20Life/Auto%20Farm.lua"
+    },
+    {
+      "title": "A Universal Time",
+      "author": "Valiant team",
+      "imageURL": "https://tr.rbxcdn.com/2c77e156b92ad97aad791394968b5696/512/512/Image/Jpeg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/KanekiCow/gamehubvaliant/main/aut.lua"
+    },
+    {
+      "title": "Shoot People Simulator",
+      "author": "Atomicals#8791",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948806630382915656/Png-17-1.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/AtomGotIce/Scripts/main/ShootPeopleSimulatorShotgunVer"
+    },
+    {
+      "title": "Destruction Simulator Gui",
+      "author": "Fade#8495",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948807157963423815/Png-34.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/FadeRemix/RND-Games/main/DestructionSim.lua"
+    },
+    {
+      "title": "Wacky Wizards",
+      "author": "ETBebo",
+      "imageURL": "https://cdn.cheat.gg/images/60ce4d7454f53.webp",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/WackyWizards.lua"
+    },
+    {
+      "title": "Static Hub",
+      "author": "SirWeeb",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894619966073106462/idkbro.jpg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/NovalineDev/Static-Hub/main/StaticHubLoader.lua"
+    },
+    {
+      "title": "Blox Fruits",
+      "author": "Valiant team",
+      "imageURL": "https://tr.rbxcdn.com/477f314e4dae65b6995e45f4df7f82bc/512/512/Image/Jpeg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/KanekiCow/gamehubvaliant/main/bloxfruit.lua"
+    },
+    {
+      "title": "Project: Bursting Rage",
+      "author": "Purple#0666",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948808173572198420/Png-69.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/purplethecolor/rblx/main/Project%20Bursting%20Rage"
+    },
+    {
+      "title": "Anit Afk Script Universal Script",
+      "author": "Unknow",
+      "imageURL": "https://scriptblox.com/images/script_9034379-1645862513660.jpg",
+      "scriptURLRaw": "https://rawscripts.net/raw/Anit-Afk-Script_894 ",
+    },
+    {
+      "title": "NotSwag Da Hood",
+      "author":"Unknow",
+      "imageURL": "https://t7.rbxcdn.com/ccf6ed04311e7440219a12511dc5702f",
+      "scriptURLRaw": "https://rawscripts.net/raw/NotSwag_887 ",
+    },
+    {
+      "title": "Ultimate Fling Script Universal Script ",
+      "author": "notbelugafan#4899",
+      "imageURL": "https://scriptblox.com/images/script_9310200-1645850212612.jpg",
+      "scriptURLRaw": "https://rawscripts.net/raw/FE-Ultimate-Fling-Script_892 "
+    },
+    {
+      "title": "Dragon Ball Final Stand",
+      "author": "Sys#0002",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948808474740011059/xt95njs.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Sys0002/luau/main/AutoQuestPlay.lua"
+    },
+    {
+      "title": "Auto TZer0 Hub",
+      "author": "!0000#6303",
+      "imageURL": "https://t5.rbxcdn.com/ac2596167a5beef6586af827666fec3b",
+      "scriptURLRaw": "https://rawscripts.net/raw/Zer0-Hub_660)_808"
+    },
+    {
+      "title": "Auto Tank Farm | Age of Heroes ",
+      "author": "j#6066",
+      "imageURL": "https://tr.rbxcdn.com/9ebdc51551aea15cbb6829f45a9d81cf/500/280/Image/Jpeg",
+      "scriptURLRaw": "https://rawscripts.net/raw/Auto-%22Tank%22-Farm-(FAST-XP)_808"
+    },
+    {
+      "title": "Sonic speed hub",
+      "author": "NukeVsCity",
+      "imageURL": "https://controlc.com/bafeb6c4",
+      "scriptURLRaw": "https://controlc.com/bafeb6c4"
+    }
+  ]
+}
