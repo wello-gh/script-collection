@@ -1,4 +1,11 @@
 {
+  "module": [
+    {
+      "name": "Atlas Framework",
+      "version": "latest",
+      "virtualPath": "./vp"
+    }
+  ],
   "scripts": [
     {
       "title": "Owl Hub",
@@ -239,13 +246,13 @@
       "title": "Anit Afk Script Universal Script",
       "author": "Unknow",
       "imageURL": "https://scriptblox.com/images/script_9034379-1645862513660.jpg",
-      "scriptURLRaw": "https://rawscripts.net/raw/Anit-Afk-Script_894 ",
+      "scriptURLRaw": "https://rawscripts.net/raw/Anit-Afk-Script_894 "
     },
     {
       "title": "NotSwag Da Hood",
       "author":"Unknow",
       "imageURL": "https://t7.rbxcdn.com/ccf6ed04311e7440219a12511dc5702f",
-      "scriptURLRaw": "https://rawscripts.net/raw/NotSwag_887 ",
+      "scriptURLRaw": "https://rawscripts.net/raw/NotSwag_887 "
     },
     {
       "title": "Ultimate Fling Script Universal Script ",
